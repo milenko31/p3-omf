@@ -1,0 +1,22 @@
+{
+    "name": "oh-my-food",
+    "version": "1.0.0",
+    "description": "p3 ohmyfood",
+    "main": "index.js",
+    "scripts": {
+        "sass": "sass --watch style.scss style.css"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/milenko31/Oh-My-Food.git"
+    },
+    "author": "Milenko SATARA",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/milenko31/Oh-My-Food/issues"
+    },
+    "homepage": "https://github.com/milenko31/Oh-My-Food#readme",
+    "dependencies": {
+        "sass": "^1.49.9"
+    }
+}
